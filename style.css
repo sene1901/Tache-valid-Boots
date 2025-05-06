@@ -1,0 +1,83 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+    /* navbar   */
+.logo{
+    color: rgb(252, 95, 0);
+}
+
+  .btn1{
+    box-shadow: 0px 0px  10px rgba(245, 124, 3, 0.91); ;
+  }
+  .img1{
+  
+  top: -17px; 
+  position: absolute;
+  z-index: 2;
+  }
+  .img1:hover{
+    transform: translateY(-25px);
+  }
+  /* section1 */
+  .sec1{
+    background-color:rgb(255, 179, 14) ;
+   
+  }
+  
+  .title2 {
+    color:rgb(97, 97, 97) ;
+  }
+      
+  .nav-tabs .nav-link.active {
+    background-color: #ebd3c7;
+    color: #fc5502;
+  }
+  .nav-tabs .nav-link {
+    color: #555; 
+  }
+  .form-control::placeholder {
+    color: #bbb;
+  }
+  .btn-orange {
+    background-color: #ff6600;
+     color: white; 
+  
+  }
+  .btn-orange:hover{
+    background-color: #8d390f;
+    color: white; 
+  }
+/*  sec2*/
+  
+.PRIX{
+position: absolute;
+bottom: 0px;
+left: 0px;
+}
+.btn-primary{
+  color: #fc5502 !important;
+  background-color: rgb(253, 234, 223) !important;
+}
+/* section3 */
+.icon-sec3{
+  width: 5.5rem;
+  height:7rem ;
+}
+.sec3{
+  background-color: rgb(255, 250, 242);
+}
+  /* section4 Popular items-*/
+  .btn-carosel{
+    background-color: #fc5502;
+  }
+@media screen and (max-width: 768px) {
+  .lign1{
+    padding-top: 20rem;
+    overflow: visible !important;
+  }
+  .title-sec1{
+       top:15rem; 
+    }
+     
+  }
