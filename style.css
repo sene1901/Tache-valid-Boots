@@ -71,6 +71,26 @@ left: 0px;
   .btn-carosel{
     background-color: #fc5502;
   }
+  /* section5 */
+  .petit-carte{
+    background-color: #fc5502;
+  }
+   .bouton1-sec5 {
+    background-color: #ffe6dc !important;
+    color: #f06500 !important;
+  font-size: 17px;}
+  .bouton2-sec5{
+    background-color: #e3e2e2 !important;
+    color: rgb(0, 128, 0) !important;
+  
+  }
+  /* SECTION7 */
+  .sec7{
+    background-image: url('Images/cta-one-bg.png') ;
+  
+  }
+
+
 @media screen and (max-width: 768px) {
   .lign1{
     padding-top: 20rem;
