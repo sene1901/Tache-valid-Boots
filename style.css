@@ -89,6 +89,9 @@ left: 0px;
     background-image: url('Images/cta-one-bg.png') ;
   
   }
+  .titre-sec7{
+    color:orangered;
+  }
 
 
 @media screen and (max-width: 768px) {
