@@ -86,13 +86,34 @@ left: 0px;
   }
   /* SECTION7 */
   .sec7{
-    background-image: url('Images/cta-one-bg.png') ;
-  
+     background-image: url('Images/cta-one-bg.png') ; 
+     background-position: center;
+     background-size: cover;
+     
   }
   .titre-sec7{
     color:orangered;
   }
+  /* Section8 */
+  .sec8{
+    background-color: #fdfaf9ce;
+  }
+  .img-sec8{
+    object-fit: cover;
+    
+  }
 
+  .btn-carte:hover{
+    color: #555 !important;
+  }
+.img-footer{
+background-image: url("Images/cta-two-bg.png");
+background-size: cover;
+background-position: center;
+}
+.btn-footer{
+  background-color: #ff6600;
+}
 
 @media screen and (max-width: 768px) {
   .lign1{
