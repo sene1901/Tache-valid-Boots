@@ -84,6 +84,11 @@ left: 0px;
     color: rgb(0, 128, 0) !important;
   
   }
+  /* section6 */
+  .card-img-top {
+    height: 25vh;
+    width: 25vh;
+  }
   /* SECTION7 */
   .sec7{
      background-image: url('Images/cta-one-bg.png') ; 
@@ -113,6 +118,9 @@ background-position: center;
 }
 .btn-footer{
   background-color: #ff6600;
+}
+.link-footer{
+  font-size: 12px;
 }
 
 @media screen and (max-width: 768px) {
